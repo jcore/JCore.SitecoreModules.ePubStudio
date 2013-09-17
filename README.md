@@ -1,7 +1,7 @@
 Sitecore.ePubStudio
 ===================
 
-A tool that allows ePub files creation using Sitecore content. You'll find this studio to be very similar in implementation to Sitecore APS Module.
+A tool that allows you to create ePub files using Sitecore content. You'll find this studio to be very similar in implementation to Sitecore APS Module.
 Indeed APS allows you to go very granular on what content to use and where in generating PDF. Unfortunately, I didn't find a way to simply extend APS to generate different output format.
 This tool allows you to generate book structure and html within each chapter.
 
