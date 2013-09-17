@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.SharedModules.ePub", "Sitecore.SharedModules.ePub\Sitecore.SharedModules.ePub.csproj", "{81004280-4F2E-40BB-858F-65BC5511C33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.SharedModules.ePub.Web", "Sitecore.SharedModules.ePub.Web\Sitecore.SharedModules.ePub.Web.csproj", "{AC9EDF95-5CD0-4C96-8007-BD136A9C0D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81004280-4F2E-40BB-858F-65BC5511C33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81004280-4F2E-40BB-858F-65BC5511C33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81004280-4F2E-40BB-858F-65BC5511C33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81004280-4F2E-40BB-858F-65BC5511C33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9EDF95-5CD0-4C96-8007-BD136A9C0D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9EDF95-5CD0-4C96-8007-BD136A9C0D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9EDF95-5CD0-4C96-8007-BD136A9C0D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9EDF95-5CD0-4C96-8007-BD136A9C0D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
